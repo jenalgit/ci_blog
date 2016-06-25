@@ -1,0 +1,5 @@
+language: php
+branches:
+  except:
+    - 2.1-stable
+    - master
